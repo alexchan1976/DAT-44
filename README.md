@@ -9,7 +9,7 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 **IA:**  
 Katherine Bueno  
-katherine.bueno100@gmail.com 
+katherine.bueno@generalassemb.ly 
 
 ### Day 1 Survey  
 [Fill me out on day 1](https://mobilega.typeform.com/to/DbXlOu?course_name=data-science&campus=new-york-city&start_date=10-27-2016&github=yes&location=us&core_id=27645)
@@ -83,7 +83,7 @@ Session 2: Final Project analysis check-in
 instructor | times available | method
 :----------|:-------------------|:--
 Amy     | by appointment | Email for an appointment
-Kathy | TBD | TBD
+Kathy | An hour before class | Sign up on Google Sheet
 
 
 
