@@ -39,7 +39,7 @@ General Assembly's Part-time courses are pass/fail programs.  We have certain re
 ### Course Schedule 
 
 
-Week | Tuesday | Thursday | Saturday
+Week | Tuesday 6:30pm-9:30pm | Thursday 6:30pm-9:30pm | Saturday 10am-4pm
 --- | --- | --- | ---
  1 |  | **UNIT 1** 10/27: What is data science? | |
  2 | 11/1: GIT & Dev Environment Setup | 11/3: Research design and pandas | |
